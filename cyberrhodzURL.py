@@ -44,11 +44,7 @@ def print_banners():
     """
     print(f'{R}{banner}{W}\n')
     print(f'{G}╰➤ {C}Version      : {W}{VERSION}')
-    print(f'{G}╰➤ {C}Creator      : {W}Spyboy')
-    print(f'{G}╰➤ {C}Twitter      : {W}{twitter_url}')
-    print(f'{G}╰➤ {C}Discord      : {W}{discord}')
-    print(f'{G}╰➤ {C}Website      : {W}{website}')
-    print(f'{G}╰➤ {C}Blog         : {W}{blog}')
+    print(f'{G}╰➤ {C}Creator      : {W}cyberrhodzURL')
     print(f'{G}╰➤ {C}Github       : {W}{github}\n')
 
 ################
