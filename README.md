@@ -76,7 +76,7 @@ Requirements:
 ---
 
 ```
-git clone https://github.com/viper081599/cyberrhodzURL/.git
+git clone https://github.com/viper081599/cyberrhodzURL.git
 ```
 ```
 cd cyberrhodzURL
