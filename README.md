@@ -116,9 +116,9 @@ print(stderr.decode())
 
 # Check the return code to see if the process was successful
 if process.returncode == 0:
-    print("Facad1ng completed successfully.")
+    print("cyberrhodzURL completed successfully.")
 else:
-    print("Facad1ng encountered an error.")
+    print("cyberrhodzURL encountered an error.")
 ```
 
 ---
