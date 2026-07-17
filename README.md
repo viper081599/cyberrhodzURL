@@ -79,7 +79,7 @@ Requirements:
 git clone https://github.com/viper081599/cyberrhodzURL/.git
 ```
 ```
-cd Facad1ng
+cd cyberrhodzURL
 ```
 ```
 pip3 install -r requirements.txt
