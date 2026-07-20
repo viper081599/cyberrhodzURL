@@ -44,7 +44,7 @@ def print_banners():
     """
     print(f'{R}{banner}{W}\n')
     print(f'{G}╰➤ {C}Version      : {W}{VERSION}')
-    print(f'{G}╰➤ {C}Creator      : {W}cyberrhodzURL')
+    print(f'{G}╰➤ {C}Creator      : {W}RODEL REYES')
     print(f'{G}╰➤ {C}Github       : {W}{github}\n')
 
 ################
